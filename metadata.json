@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TravelGuide AI",
+  "description": "An intelligent bot designed to explain travel booking processes, cancellation policies, and documentation requirements in simple terms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
